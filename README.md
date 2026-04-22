@@ -1,25 +1,37 @@
-# Criminal Recidivism Prediction using Machine Learning
+# Predictive Analysis of Criminal Recidivism using Machine Learning
 
 ## Overview
-This project predicts criminal recidivism using machine learning techniques and focuses on fairness and explainability.
+This project focuses on predicting criminal recidivism using multiple machine learning models, with emphasis on fairness and explainability.
 
 ## Models Used
 - Logistic Regression  
+- Decision Tree  
 - Random Forest  
-- Gradient Boosting  
+- XGBoost  
 - Neural Networks  
+- Hybrid Models  
 
 ## Key Features
-- End-to-end ML pipeline  
-- Hybrid modeling approaches  
-- Fairness-aware learning (Adversarial Debiasing)  
-- Explainability using SHAP  
+- Data preprocessing and feature engineering  
+- Class balancing  
+- Fairness-aware modeling (Adversarial Debiasing)  
+- SHAP explainability  
+- Model comparison  
+
+## Results
+- High predictive performance across models  
+- Hybrid models improved accuracy  
+- Fairness techniques reduced bias  
+- SHAP identified key factors such as age, prior offenses, and risk scores  
 
 ## My Contribution
 - Implemented and evaluated ML models  
-- Performed fairness and bias mitigation experiments  
+- Performed fairness analysis  
 - Applied SHAP for interpretability  
-- Analyzed model performance  
+- Conducted comparative analysis  
 
 ## Tools & Libraries
-Python, Scikit-learn, TensorFlow/PyTorch, Pandas, SHAP
+Python, Scikit-learn, TensorFlow, XGBoost, SHAP, Pandas, NumPy
+
+## Note
+This project is based on an externally sourced academic framework and has been adapted and extended with additional experimentation and analysis.
