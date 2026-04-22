@@ -1,0 +1,6 @@
+Dataset: COMPAS dataset (ProPublica)
+
+Download:
+https://github.com/propublica/compas-analysis
+
+Dataset not uploaded due to size and licensing.
